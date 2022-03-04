@@ -1,0 +1,23 @@
+body {
+    background-color: blanchedalmond;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.cheflogo {
+    height: auto;
+    width: 90px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+hr.dashed {
+    border-top: 3px dashed rgb(0, 0, 0);
+    width: 100%;
+  }
+
+.back{
+    font-weight: 700;
+}
